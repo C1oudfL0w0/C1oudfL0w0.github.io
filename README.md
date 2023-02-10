@@ -1,6 +1,6 @@
 # C1oudFLowing's Website
 
-> 一个简单的 Github Page，包含部分个人为了方便放在 Github 上的各种介绍，部分开源游戏的玩法拓展，以及个人博客。
+> 一个简单的 Github Page，个人博客。
 
 <br>
 
