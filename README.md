@@ -4,7 +4,7 @@
 
 <br>
 
-### 迷路了么，点按下面的链接继续探索吧 _(ÒωÓ๑ゝ∠)_
+### 迷路了么，点按下面的链接继续探索吧 `_(ÒωÓ๑ゝ∠)`_
 
 [**`Blog - C1oudFLowing`**](https://C1oudFLowing.github.io/blog/)
 
