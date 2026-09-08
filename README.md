@@ -21,6 +21,6 @@
 
 <br>
 <br>
-<p>©2022-2025 C1oudfL0w0 All Rights Reserved.</p>
+<p>©2022-2026 C1oudfL0w0 All Rights Reserved.</p>
 
 
