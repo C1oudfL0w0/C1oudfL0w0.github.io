@@ -8,7 +8,16 @@
 
 [**`Blog - C1oudfL0w0`**](https://C1oudfL0w0.github.io/blog/)
 
-[PHP_AWD_Tools](https://github.com/C1oudfL0w0/PHP_AWD_Tools)
+2023-2026年整理的各大CTF比赛Web题目：
+
+- [CTF_Repo_2023](https://github.com/C1oudfL0w0/CTF_Repo_2023)
+- [CTF_Repo_2024](https://github.com/C1oudfL0w0/CTF_Repo_2024)
+- [CTF_Repo_2025](https://github.com/C1oudfL0w0/CTF_Repo_2025)
+
+一些自己写的工具/插件：
+
+- [PHP_AWD_Tools](https://github.com/C1oudfL0w0/PHP_AWD_Tools)
+- [AntSword FastShell](https://github.com/C1oudfL0w0/FastShell)
 
 <br>
 <br>
