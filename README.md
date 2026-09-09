@@ -13,6 +13,7 @@
 - [CTF_Repo_2023](https://github.com/C1oudfL0w0/CTF_Repo_2023)
 - [CTF_Repo_2024](https://github.com/C1oudfL0w0/CTF_Repo_2024)
 - [CTF_Repo_2025](https://github.com/C1oudfL0w0/CTF_Repo_2025)
+- [CTF_Repo_2026](https://github.com/C1oudfL0w0/CTF_Repo_2026)
 
 一些自己写的工具/插件：
 
